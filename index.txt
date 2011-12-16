@@ -1,0 +1,4 @@
+= Frugalware System Status
+
+- Fri, 16 Dec 2011 11:42:05 +0100: genesis.frugalware.org is back
+- Fri, 16 Dec 2011 10:54:06 +0100: genesis.frugalware.org will be down for maintainance soon to upgrade its memory from 2G to 8G

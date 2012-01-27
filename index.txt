@@ -1,4 +1,5 @@
 = Frugalware System Status
 
+- Fri, 27 Jan 2012 10:52:15 +0100: genesis.frugalware.org will be down for maintenance soon to replace its i686 userland with x86_64
 - Fri, 16 Dec 2011 11:42:05 +0100: genesis.frugalware.org is back
-- Fri, 16 Dec 2011 10:54:06 +0100: genesis.frugalware.org will be down for maintainance soon to upgrade its memory from 2G to 8G
+- Fri, 16 Dec 2011 10:54:06 +0100: genesis.frugalware.org will be down for maintenance soon to upgrade its memory from 2G to 8G

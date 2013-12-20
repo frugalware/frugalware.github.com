@@ -1,5 +1,6 @@
 = Frugalware System Status
 
+- Fri, 20 Dec 2013 14:18:43 +0100: genesis.fw.o is back
 - Fri, 20 Dec 2013 10:48:58 +0100: genesis.fw.o is down due to network issues, we're aware of the problem
 - Fri, 21 Sep 2012 22:10:07 +0200: genesis.fw.o and helicon.fw.o is back
 - Fri, 21 Sep 2012 12:50:01 +0200: genesis.fw.o and helicon.fw.o will be down between 15h and 17h to move them to an other room

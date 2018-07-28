@@ -1,5 +1,6 @@
 = Frugalware System Status
 
+- Sat, 28 Jul 2018 08:19:00 +0200: genesis.fw.o is down for power maintenance, expected to be up later today
 - Wed, 26 Jan 2015 16:49:53 +0100: genesis.fw.o is back with 16 cores and 16G memory
 - Mon, 05 Jan 2015 16:15:13 +0100: genesis.fw.o is down as all 4 cores in its CPU died, we're replacing the HW but it'll take time
 - Thu, 27 Feb 2014 18:25:47 +0100: genesis.fw.o is back
